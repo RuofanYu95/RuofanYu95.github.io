@@ -1,4 +1,7 @@
-## Ruofan Yu's person page
+## Ruofan Yu's personal page
+
+Under construction
+
 
 ## Welcome to GitHub Pages
 
